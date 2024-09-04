@@ -10,3 +10,9 @@ I'm an enthusiastic problem-solver and full-stack developer who loves diving int
  - Continuous Learning: I’m constantly iterating on solutions based on feedback and striving to improve my skills.
    
 Join me on my journey to refine and optimize problem-solving techniques, one algorithm at a time!
+
+### Languages and Tools:
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
