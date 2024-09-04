@@ -21,8 +21,8 @@ Join me on my journey to refine and optimize problem-solving techniques, one alg
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" alt="React-router" width="40" height="40"  />
-
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg"  alt="React-Router" width="40" height="40" />
+          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"  />
           
           
