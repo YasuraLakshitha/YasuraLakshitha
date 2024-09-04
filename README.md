@@ -34,5 +34,10 @@ Join me on my journey to refine and optimize problem-solving techniques, one alg
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height= "40" />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg"  alt="angular material" width="40" height= "40" />
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="MySQL" width="40" height= "40" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+          
           
 </p>
