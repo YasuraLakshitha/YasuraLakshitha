@@ -40,5 +40,8 @@ Join me on my journey to refine and optimize problem-solving techniques, one alg
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mycrisoft SQL" width="40" height= "40" />
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="c++" width="40" height= "40" />
+ <br>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="intellij" width="40" height= "40" />
           
 </p>
