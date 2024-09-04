@@ -25,6 +25,7 @@ Join me on my journey to refine and optimize problem-solving techniques, one alg
           
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="40" height="40"  />
 
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="HTML-5" width="40" height="40"" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML-5" width="40" height="40" />
+          
           
 </p>
