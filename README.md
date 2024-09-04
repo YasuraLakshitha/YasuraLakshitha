@@ -37,7 +37,7 @@ Join me on my journey to refine and optimize problem-solving techniques, one alg
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="MySQL" width="40" height= "40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="mycrisoft SQL" width="40" height= "40" />
           
           
 </p>
